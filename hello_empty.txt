@@ -1,0 +1,2 @@
+#This file was created via command line use cat > command. 
+# I will now use conrol+d to end the text file entry, push changes and submit a pull request to the main repo. 
